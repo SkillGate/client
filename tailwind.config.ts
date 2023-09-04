@@ -30,8 +30,8 @@ module.exports = {
         "main":"#7847FF",
       },
       backgroundImage: {
-        pattern: "url('/pattern.png')",
-        "hero-bg": "url('/hero-bg.png')",
+        pattern: "url('./pattern.png')",
+        "hero-bg": "url('./hero-bg.png')",
       },
     },
   },

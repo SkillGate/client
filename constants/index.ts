@@ -1,10 +1,10 @@
 export const imageUrl : {url:string,alt:string}[] = [
   {
-    url: "./logo.svg",
+    url: "/logo.svg",
     alt: "logo"
   },
   {
-    url: "./hero_black.png",
+    url: "/hero_black.png",
     alt: "hero"
   }
 ];

@@ -1,10 +1,10 @@
 export const imageUrl : {url:string,alt:string}[] = [
   {
-    url: "/logo.svg",
+    url: "https://res.cloudinary.com/midefulness/image/upload/v1694111829/SkillGate/logo.svg",
     alt: "logo"
   },
   {
-    url: "/hero_black.png",
+    url: "https://res.cloudinary.com/midefulness/image/upload/v1694111829/SkillGate/hero_black.png",
     alt: "hero"
   }
 ];

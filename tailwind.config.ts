@@ -31,7 +31,7 @@ module.exports = {
       },
       backgroundImage: {
         pattern: "url('/pattern.png')",
-        "hero-bg": "url('/hero-bg.png')",
+        "hero-bg": "url('https://res.cloudinary.com/midefulness/image/upload/v1694111835/SkillGate/hero-bg.png')",
       },
     },
   },

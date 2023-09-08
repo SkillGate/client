@@ -1,14 +1,12 @@
-import { CategorySection, Hero, HeroBox, JoinedCompanies, CategoryCarousel } from '@/components'
-import Image from 'next/image'
+import { Navbar, Footer } from '@/components'
+import LandingPage from './landingPage'
 
 export default function Home() {
   return (
-    <main className="overflow-hidden">
-      <Hero />
-      <HeroBox />
-      <CategorySection />
-      {/* <CategoryCarousel /> */}
-      <JoinedCompanies />
-    </main>
+    <div>
+      <Navbar />
+      <LandingPage />
+      <Footer />
+    </div>
   )
 }

@@ -5,6 +5,8 @@ import Hero from "./Hero";
 import JoinedCompanies from "./JoinedCompanies";
 import HeroBox from "./HeroBox";
 import CategorySection from "./CategorySection";
+import CategoryCarousel from "./CategoryCarousel";
+import Carousel from "./common/Carousel";
 
 export {
     Footer,
@@ -13,5 +15,7 @@ export {
     Hero,
     JoinedCompanies,
     HeroBox,
-    CategorySection
+    CategorySection,
+    CategoryCarousel,
+    Carousel
 }

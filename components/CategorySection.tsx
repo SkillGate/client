@@ -31,6 +31,46 @@ const CategorySection = () => {
             </p>
           </div>
 
+          <div className="bg-white rounded-lg shadow-lg p-6">
+            <h3 className="text-xl font-semibold mb-4">Category 3</h3>
+            <p className="text-gray-600">
+              Description of Category 3 goes here.
+            </p>
+          </div>
+
+          <div className="bg-white rounded-lg shadow-lg p-6">
+            <h3 className="text-xl font-semibold mb-4">Category 3</h3>
+            <p className="text-gray-600">
+              Description of Category 3 goes here.
+            </p>
+          </div>
+
+          <div className="bg-white rounded-lg shadow-lg p-6">
+            <h3 className="text-xl font-semibold mb-4">Category 3</h3>
+            <p className="text-gray-600">
+              Description of Category 3 goes here.
+            </p>
+          </div>
+
+          <div className="bg-white rounded-lg shadow-lg p-6">
+            <h3 className="text-xl font-semibold mb-4">Category 3</h3>
+            <p className="text-gray-600">
+              Description of Category 3 goes here.
+            </p>
+          </div>
+          <div className="bg-white rounded-lg shadow-lg p-6">
+            <h3 className="text-xl font-semibold mb-4">Category 3</h3>
+            <p className="text-gray-600">
+              Description of Category 3 goes here.
+            </p>
+          </div>
+          <div className="bg-white rounded-lg shadow-lg p-6">
+            <h3 className="text-xl font-semibold mb-4">Category 3</h3>
+            <p className="text-gray-600">
+              Description of Category 3 goes here.
+            </p>
+          </div>
+
           {/* Add more category cards as needed */}
         </div>
       </div>

@@ -1,4 +1,4 @@
-import { CategorySection, Hero, HeroBox, JoinedCompanies } from '@/components'
+import { CategorySection, Hero, HeroBox, JoinedCompanies, CategoryCarousel } from '@/components'
 import Image from 'next/image'
 
 export default function Home() {
@@ -7,6 +7,7 @@ export default function Home() {
       <Hero />
       <HeroBox />
       <CategorySection />
+      {/* <CategoryCarousel /> */}
       <JoinedCompanies />
     </main>
   )

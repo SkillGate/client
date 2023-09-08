@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const HeroBox = () => {
   return (
-    <div className="flex flex-wrap justify-center">
+    <div className="flex flex-wrap justify-center py-24 sm:py-32">
       <div className="max-w-sm w-full md:w-1/2 lg:w-1/3 p-4">
         <div className="bg-white rounded-lg shadow-lg">
           <img

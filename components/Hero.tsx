@@ -16,7 +16,7 @@ const Hero = () => {
         <p className="hero__subtitle">Discover Your Next Opportunity!</p>
 
         <CustomButton
-          title="Explore Cars"
+          title="Explore Jobs"
           containerStyles="bg-primary-blue text-white rounded-full mt-10"
           handleClick={handleScroll}
         />

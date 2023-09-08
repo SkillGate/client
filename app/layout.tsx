@@ -17,10 +17,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="relative">
-        <Navbar />
+      <body className="relative scroll-smooth">
+        {/* <Navbar /> */}
         {children}
-        <Footer />  
+        {/* <Footer />   */}
       </body>
     </html>
   )

@@ -63,6 +63,30 @@
 }
 /* END: Hero styles */
 
+/* START: Hero Box styles */
+
+.hero__box-container {
+  @apply max-w-sm w-full md:w-1/2 lg:w-1/3 p-4
+}
+
+.hero__box-card-container {
+  @apply bg-white rounded-lg shadow-lg transition-transform duration-300 ease-out hover:scale-105
+}
+
+.hero__box-card-image {
+  @apply w-full h-40 object-cover rounded-t-lg
+}
+
+.hero__box-card-title {
+  @apply text-xl font-semibold
+}
+
+.hero__box-card-description {
+  @apply mt-2 text-gray-600
+}
+
+/* END: Hero Box styles */
+
 /* START: Home styles */
 
 .home__text-container {

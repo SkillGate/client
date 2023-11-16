@@ -6,6 +6,10 @@ export const imageUrl : {url:string,alt:string}[] = [
   {
     url: "https://res.cloudinary.com/midefulness/image/upload/v1694111829/SkillGate/hero_black.png",
     alt: "hero"
+  },
+  {
+    url: "https://res.cloudinary.com/dsqosc2ig/image/upload/v1700118695/SkillGate/google_icon.png",
+    alt: "google"
   }
 ];
 

@@ -10,6 +10,26 @@ export const imageUrl : {url:string,alt:string}[] = [
   {
     url: "https://res.cloudinary.com/dsqosc2ig/image/upload/v1700118695/SkillGate/google_icon.png",
     alt: "google"
+  },
+  {
+    url: "https://res.cloudinary.com/dsqosc2ig/image/upload/v1700144377/SkillGate/menu.svg",
+    alt: "toggles_menu"
+  },
+  {
+    url: "https://res.cloudinary.com/dsqosc2ig/image/upload/v1700158507/SkillGate/deal.png",
+    alt: "deal"
+  },
+  {
+    url: "https://res.cloudinary.com/dsqosc2ig/image/upload/v1700158498/SkillGate/timer.png",
+    alt: "timer"
+  },
+  {
+    url: "https://res.cloudinary.com/dsqosc2ig/image/upload/v1700158487/SkillGate/innovation.png",
+    alt: "innovation"
+  },
+  {
+    url: "https://res.cloudinary.com/dsqosc2ig/image/upload/v1700158478/SkillGate/diversity.png",
+    alt: "diversity"
   }
 ];
 
@@ -113,4 +133,11 @@ export const footerLinks = [
       { title: "Facebook", url: "/" },
     ],
   },
+];
+
+export const NAV_LINKS = [
+  { href: "/", key: "home", label: "Home" },
+  { href: "#about", key: "about_us", label: "About Us" },
+  { href: "#advertisements", key: "advertisements", label: "Advertisements" },
+  { href: "#contact", key: "contact_us", label: "Contact Us" },
 ];

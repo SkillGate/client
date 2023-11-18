@@ -11,6 +11,10 @@
   font-family: "Manrope", sans-serif;
 }
 
+body {
+  font-family: Inter;
+}
+
 /* START: General styles */
 .max-width {
   @apply max-w-[1440px] mx-auto;
@@ -241,3 +245,23 @@
   @apply cursor-default select-none py-2 pl-10 pr-4;
 }
 /* END: search manufacturer styles */
+
+.flexBetween {
+  @apply flex items-center justify-between;
+}
+
+.max-container {
+  @apply mx-auto max-w-[1440px];
+}
+
+.flexCenter {
+  @apply flex items-center justify-center;
+}
+
+.flexBetween {
+  @apply flex items-center justify-between;
+}
+
+.regular-16 {
+  @apply text-[16px] font-[400];
+}
